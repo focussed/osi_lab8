@@ -23,11 +23,9 @@ osi_lab8/
 
 text
 
-| Path | Description |
-|------|-------------|
-| `part1_sanity_test/` | Userspace test program and Arduino sketch |
-| `part2_kernel_driver/` | Kernel driver template and Makefile |
-| `solutions/` | Complete solutions (instructor access only) |
+- **`part1_sanity_test/`** - Userspace test program and Arduino sketch
+- **`part2_kernel_driver/`** - Kernel driver template and Makefile  
+- **`solutions/`** - Complete solutions (instructor access only)
 
 ## Hardware Required
 
