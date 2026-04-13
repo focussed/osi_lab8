@@ -5,7 +5,7 @@ This lab builds on Lab 5 skills. You will:
 2. Extend a character driver to read temperature from a TMP36 sensor via Arduino
 
 ## Repository Structure
-
+```text
 osi_lab8/
 ├── README.md
 ├── part1_sanity_test/
@@ -20,7 +20,8 @@ osi_lab8/
 └── solutions/
     ├── temp_test_complete.c
     └── memory_complete.c
-    
+
+text
 
 | Path | Description |
 |------|-------------|
