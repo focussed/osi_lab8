@@ -36,11 +36,10 @@ text
 
 ## Wiring
 
-| TMP36 Pin | Arduino Connection |
-|-----------|-------------------|
-| Left (Vcc) | 5V |
-| Middle (Signal) | A0 |
-| Right (GND) | GND |
+Wiring for TMP036 - see https://sl.bing.net/i6FidWrUjwO
+- Left (Vcc) connects to 5V
+- Middle (Signal) connects to A0
+- Right (GND) connects to GND
 
 ## Quick Start
 
